@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+Output
+
+![output1](https://user-images.githubusercontent.com/70737564/108927837-b1b9ea00-7673-11eb-9c14-e841263b3f74.jpeg)
+
+
+![output2](https://user-images.githubusercontent.com/70737564/108927842-b41c4400-7673-11eb-9252-ad2a885fe140.jpeg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
